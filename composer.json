@@ -1,0 +1,15 @@
+{
+    "name": "azamat.yadygerov/php-mv-cframework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azamat",
+            "email": "73704375+azamat1696@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
