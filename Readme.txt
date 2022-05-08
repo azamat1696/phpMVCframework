@@ -1,0 +1,3 @@
+/*"Azamat\\PhpMvCframework\\": "src/"*/
+
+            "app\\": "./"
